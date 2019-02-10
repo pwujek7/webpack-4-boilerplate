@@ -1,7 +1,7 @@
 import React from 'react';
-import {shallow} from 'enzyme';
+import { shallow } from 'enzyme';
 
-import Test from './Test.jsx';
+import Test from './Test';
 
 describe('<Test />', () => {
   it('renders without errors', () => {

@@ -1,9 +1,9 @@
-import React, {Fragment} from 'react';
+import React, { Fragment } from 'react';
 import ReactDOM from 'react-dom';
 
 import Test from './components/test/Test.jsx';
 
-import './scss/main.scss';
+import './style/main.scss';
 
 const ROOT = document.getElementById('root');
 
