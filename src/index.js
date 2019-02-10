@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import ReactDOM from 'react-dom';
 
-import Test from './components/test/Test.jsx';
+import Test from './components/test/Test';
 
 import './style/main.scss';
 
